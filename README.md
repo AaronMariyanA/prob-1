@@ -2,6 +2,7 @@
 
 # Name : Aaron Mariyan A
 # Reg No : 212224040004
+# Date : 4/3/25
 # Aim : 
 
 To find mean and variance of arrival of objects from the feeder using probability distribution
